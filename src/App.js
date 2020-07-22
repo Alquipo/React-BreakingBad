@@ -1,33 +1,33 @@
-import React, {useState, useEffect} from 'react';
-import api from './services/api'
-import Header from './components/Header'
-import CharacterGrid from './components/CharacterGrid'
+import React, { useState, useEffect } from "react";
+import api from "./services/api";
+import Header from "./components/Header";
+import CharacterGrid from "./components/CharacterGrid";
 
-import './App.css';
+import "./App.css";
 
 const App = () => {
-  const [items, setItems] = useState([])
-  const [isLoading, setIsLoading] = useState(true)
+  const [items, setItems] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const fetchItems = async () => {
-      const response = await api.get(`/characters`)
+      const response = await api.get(`/characters`);
 
-      console.log(response.data)
+      console.log(response.data);
 
-      setItems(response.data)
-      setIsLoading(false)
-    }
+      setItems(response.data);
+      setIsLoading(false);
+    };
 
-    fetchItems()
-  }, [])
+    fetchItems();
+  }, []);
 
   return (
     <div className="container">
-      <Header/>
-      <CharacterGrid isLoading={isLoading} items={items}/>
+      <Header />
+      <CharacterGrid isLoading={isLoading} items={items} />
     </div>
   );
-}
+};
 
 export default App;
