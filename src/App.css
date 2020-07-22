@@ -6,7 +6,7 @@
 
 html,
 body {
-  background: #000 url("img/bg.jpg") no-repeat center center/cover;
+  background: #000 url("assets/bg.jpg") no-repeat center center/cover;
   height: 100vh;
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
@@ -31,20 +31,6 @@ a {
   padding: 10px 15px;
   border: 0;
   margin: 10px 0;
-}
-
-header {
-  height: 200px;
-}
-
-header img {
-  width: 200px;
-}
-
-.center {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .search {
