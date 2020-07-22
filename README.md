@@ -44,7 +44,7 @@ Este é um projeto que consiste em criar uma pagina para pesquisar informações
 
 <div align="center">
 
-<button><a target="_blank" href="alquipo-breackingbadcast.netlify.app"><img alt="Demo" src=".github/netlify.svg" ></img></a></button>
+<button><a target="_blank" href="https://alquipo-breackingbadcast.netlify.app"><img alt="netlify" src=".github/netlify.svg" ></img></a></button>
 
 </div>
 
