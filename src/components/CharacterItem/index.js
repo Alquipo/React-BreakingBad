@@ -16,13 +16,13 @@ const CharacterItem = ({ item }) => {
               {item.portrayed}
             </li>
             <li>
-              <strong>Nickname:</strong> {item.nickname}
+              <strong>Nickname: </strong> {item.nickname}
             </li>
             <li>
-              <strong>Birthday:</strong> {item.birthday}
+              <strong>Birthday: </strong> {item.birthday}
             </li>
             <li>
-              <strong>Status:</strong> {item.status}
+              <strong>Status: </strong> {item.status}
             </li>
           </ul>
         </div>
