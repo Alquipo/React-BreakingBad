@@ -30,7 +30,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este é um projeto que consiste em criar uma pagina para pesquisar informações do elenco de Breaking Bad, usando uma Axios para consumir uma APi.
+Este é um projeto que consiste em criar uma pagina para pesquisar informações do elenco de Breaking Bad, usando Axios para consumir uma APi.
 
 ## 🎨 Layout
 
