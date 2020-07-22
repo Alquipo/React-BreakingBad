@@ -10,7 +10,7 @@
     <img alt="Made by Alquipo" src="https://img.shields.io/badge/made%20by-AlquipoNeto-blue">
 </a>
 
-<a href="https://github.com/Alquipo/React-BreakingBads/commits/master">
+<a href="https://github.com/Alquipo/React-BreakingBad/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alquipo/React-BreakingBad?color=blue">
 </a>
 
