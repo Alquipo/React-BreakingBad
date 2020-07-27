@@ -10,16 +10,18 @@
     <img alt="Made by Alquipo" src="https://img.shields.io/badge/made%20by-AlquipoNeto-blue">
 </a>
 
-<a href="https://github.com/Alquipo/React-BreakingBads/commits/master">
+<a href="https://github.com/Alquipo/React-BreakingBad/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alquipo/React-BreakingBad?color=blue">
 </a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
-</p>
 
 <a href="https://app.netlify.com/sites/alquipo-discord-clone/deploys">
     <img alt="Netlify" src="https://api.netlify.com/api/v1/badges/9d272332-9a77-4519-80d0-b9b1f9951e3b/deploy-status">
 </a>
+</p>
+
+
 
 <p align="center">
 
